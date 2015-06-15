@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B7EDAF52-57FC-47B2-9ADE-5B15BB8800DB}" SchemaVersion="69">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{B7EDAF52-57FC-47B2-9ADE-5B15BB8800DB}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Musique" ID="{D04A7C38-65A9-43E0-B859-23BD5B373198}" ShortID="591799083">
+					<ChildrenList>
+						<Event Name="music_play" ID="{9C34D80E-200F-4264-B647-00B0FD681AD6}">
+							<ChildrenList>
+								<Action Name="Play" ID="{51B1FF8D-4CD0-4E48-8CC9-FC9147FCFCAF}" ShortID="277282940" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{2BAE7B6A-0DF8-4D81-96A5-10EE5FE73DFD}" Global="false">
+											<ObjectRef Name="music_radiomassage" ID="{3D4C757C-F24D-421D-8204-227E7DA44850}" WorkUnitID="{D2AFB931-C0FD-437A-933B-2AFEE071301E}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

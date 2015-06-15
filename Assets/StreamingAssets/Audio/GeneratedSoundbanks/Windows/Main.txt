@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	202194903	music_play			\Default Work Unit\Musique\music_play	
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	991284961	music_radiomassage	C:\Users\Adrien\Documents\GitHub\TouchMeV2\Assets\WwiseProject\WwiseTouchMeV2\.cache\Windows\SFX\mus_radiomassage_5DB4FCCE.wem	991284961.wem	\Actor-Mixer Hierarchy\Default Work Unit\Music\music_radiomassage	
+

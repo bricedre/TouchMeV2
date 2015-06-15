@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" SchemaVersion="10" SoundbankVersion="112">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Adrien\Documents\GitHub\TouchMeV2\Assets\WwiseProject\WwiseTouchMeV2\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Adrien\Documents\GitHub\TouchMeV2\Assets\WwiseProject\WwiseTouchMeV2\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Adrien\Documents\GitHub\TouchMeV2\Assets\StreamingAssets\Audio\GeneratedSoundbanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Adrien\Documents\GitHub\TouchMeV2\Assets\WwiseProject\WwiseTouchMeV2\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="991284961" Language="SFX">
+			<ShortName>mus_radiomassage.wav</ShortName>
+			<Path>SFX\mus_radiomassage_5DB4FCCE.wem</Path>
+		</File>
+	</StreamedFiles>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX">
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="202194903" Name="music_play"/>
+			</IncludedEvents>
+			<ReferencedStreamedFiles>
+				<File Id="991284961"/>
+			</ReferencedStreamedFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
